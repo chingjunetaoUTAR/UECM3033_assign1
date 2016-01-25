@@ -67,7 +67,12 @@ x_0 + 2 x_1 &= 8.
 
 -----------------------------------
 In case Github does not render my equations, you may view the equations in the following Editor.
-https://stackedit.io/editor
+[Markdown Editor](https://stackedit.io/editor)
+
+or please refer to my report in pdf file format.
+UECM3033 Assignment 1_ChingJuneTao_report.pdf
+
+
 -----------------------------------
 <sup>last modified: 25/01/2016</sup>
  
