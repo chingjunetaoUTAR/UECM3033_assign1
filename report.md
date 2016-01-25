@@ -68,5 +68,6 @@ x_0 + 2 x_1 &= 8.
 -----------------------------------
 In case Github does not render my equations, you may view the equations in the following Editor.
 https://stackedit.io/editor
+-----------------------------------
 <sup>last modified: 25/01/2016</sup>
  
