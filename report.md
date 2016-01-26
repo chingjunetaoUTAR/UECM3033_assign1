@@ -34,7 +34,7 @@ Hexadecimal representation of 1202462 is 0x12591e
 
 2. Write down the definite integrals that you have chosen.
   
-$$\int_0^{\pi} \frac{1}{2}sin{x}  dx = 1.$$
+$$\int_0^{\pi} \frac{sin{x}\cos{x}}{sin{x}+1} dx = 0.$$
 
 3. Write down your system of 10 linear equations.
 
